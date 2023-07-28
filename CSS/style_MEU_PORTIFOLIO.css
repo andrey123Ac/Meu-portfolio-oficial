@@ -1,0 +1,618 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+body {
+    height: 20rem;
+    background-color: rgb(83, 144, 160);
+}
+
+
+.cabecalho {
+    height: 6.25rem;
+    width: auto;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+.rodape {
+    height: 6.25rem;
+    width: auto;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.botao {
+    color: white;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+
+
+}
+
+.contato {
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contatos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+.tex4{
+    font-size: 2rem;
+    color: white;
+    text-transform: uppercase;
+margin-bottom: 2rem ;
+text-decoration: underline    ;
+
+
+}
+.cima {
+  margin-left: 5rem;
+}
+
+.tex3{
+    color:black ;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   
+    font-size: 1.7rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+ 
+.botao6 {
+    display: flex;
+    color: white;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+
+}
+
+.tex2{
+color: white;
+font-size: 1.1rem ;
+text-decoration: none;
+text-transform: uppercase;
+
+}
+.git{
+    color: black;
+}
+
+
+
+
+
+.texto1 {
+
+    align-items: center;
+  
+    padding-left: 3rem;
+    font-size: 1.56rem;
+    font-style: unset;
+    color: white;
+
+
+
+}
+.avatar{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 125rem;
+}
+
+.texto2 {
+
+
+
+    padding-top: 1.25rem;
+    padding-left: 3rem;
+
+    font-style: unset;
+    font-size: 30;
+    align-items: center;
+    color: white;
+
+
+}
+
+.texto3 {
+
+
+    padding-top: 0.90rem;
+    padding-left: 3rem;
+    font-style: unset;
+    font-size: 1.25rem;
+
+    color: rgb(0, 0, 0);
+}
+
+.nome {
+
+    font-size: 1.5rem;
+    color: black;
+
+
+}
+
+
+
+
+.botao2:hover {
+    background-color: cornflowerblue;
+    transform: 0.5s;
+
+
+}
+
+.texto4 {
+    display: flex;
+    color: black;
+    border: solid 0.127rem cornflowerblue;
+    border-radius: 0.9375rem;
+    padding: 0.3125;
+    font-size: 0.9375rem;
+    background-color: transparent;
+    width: 7.5rem;
+    justify-content: center;
+    text-transform: unset;
+
+
+}
+
+.botao2 {
+    display: flex;
+
+    align-items: center;
+    height: 2rem;
+
+    display: flex;
+    color: black;
+    border: solid 0.127rem cornflowerblue;
+    border-radius: 0.9375rem;
+    padding: 0.3125;
+    font-size: 0.9375rem;
+    background-color: transparent;
+    width: 7.5rem;
+    justify-content: center;
+
+}
+
+.redes {
+    padding-top: 0.3125;
+    padding-left: 2.5;
+}
+
+
+.link2 {
+
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+.main1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 6.25rem;
+    margin-right: 8rem;
+   
+
+
+}
+
+.bot {
+    padding-top: 1.25rem;
+    padding-left: 3.125rem;
+    align-items: center;
+
+
+}
+
+.link3 {
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    color: white;
+  
+
+}
+
+.main2{
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-bottom: 12.5rem;
+    margin-top: 12.5rem;
+}
+
+.texto5 {
+    font-size: 1.5625rem;
+    padding-bottom: 2re;
+margin-bottom: 1.3rem;
+margin-left: 1rem;
+    color: white;
+
+}
+
+.sobre {
+    font-size: 1.125rem;
+
+}
+
+.main3 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6.25;
+    margin-right: 100;
+    margin-bottom:0;
+    margin-top: 0;
+}
+
+.texto6 {
+    font-size: 1.5625rem;
+    padding-bottom: 0.9375;img
+
+    color: white;
+}
+.tex5{
+    color: black ;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+       
+        font-size: 1.7rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+}
+
+.sobre2 {
+    font-size: 1.125rem;
+    padding-bottom: 5rem;
+}
+
+.sobre3 {
+    font-size: 1.125rem;
+    padding-bottom: 0.625rem;
+   
+}
+
+.conteudo3 {
+    margin-bottom: 5.4rem;
+    margin-top: 5.3rem;
+    align-items: center;
+}
+
+.tex {
+    padding-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+
+
+.tex1 {
+    color: white;
+    text-transform: uppercase;
+    padding-bottom: 2.5rem;
+
+}
+.conteudo{
+  margin-top: 13.9rem;
+    margin-bottom:13.9rem;
+}
+
+
+.conteudo4 {
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+}
+
+.trabalhofoc{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    text-decoration: underline;
+    
+}
+.img-Org{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main4 {
+    display: flex;
+    justify-content: center;
+align-items: center;
+margin: 4rem;
+
+}
+
+
+.img10{
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    height: 45rem;
+    width: 80rem;
+}
+.img11{
+    margin: 1rem;
+}
+
+.botao3 {
+    display: flex;
+    align-items: center;
+    display: flex;
+    color: black;
+    border: solid 0.125rem cornflowerblue;
+    border-radius: 0.9375rem;
+    padding: 0, 3125rem;
+    font-size: 0.9375rem;
+    background-color: transparent;
+    width: 7.5rem;
+    height: 2.5rem;
+    justify-content: center;
+
+}
+
+.botao3:hover {
+    background-color: cornflowerblue;
+    transform: 0.5s;
+}
+
+.botao4 {
+    display: flex;
+    align-items: center;
+    display: flex;
+    color: black;
+    border: solid 0.125rem cornflowerblue;
+    border-radius: 0.9375rem;
+    padding: 0, 3125rem;
+    font-size: 0.9375rem;
+    background-color: transparent;
+    width: 7.5rem;
+    height: 2.5rem;
+    justify-content: center;
+
+}
+
+.botao4:hover {
+    background-color: cornflowerblue;
+    transform: 0.5s;
+}
+
+.bot1 {
+    display: flex;
+    padding-bottom: 0.9375rem;
+    padding-left: 0.9375rem;
+}
+
+.bot2 {
+    display: flex;
+    padding-bottom: 0.9375rem;
+    padding-left: 0.9375rem;
+}
+
+.botao5 {
+    display: flex;
+    align-items: center;
+    display: flex;
+    color: black;
+    border: solid 0.125rem cornflowerblue;
+    border-radius: 0.9375rem;
+    padding: 0, 3125rem;
+    font-size: 0.9375rem;
+    background-color: transparent;
+    width: 7.5rem;
+    justify-content: center;
+    padding-left: 1.25rem;
+  
+}
+
+.botao5:hover {
+    background-color: cornflowerblue;
+    transform: 0.5s;
+}
+
+
+@media (max-width: 50rem) {
+    .main1 {
+        justify-content: center;
+        flex-direction: column-reverse;
+
+        margin: 0;
+
+
+    }
+
+    .cabecalho {
+        width: auto;
+    }
+
+    .botoes {
+        gap: 1.875rem;
+        font-size: 0, 625rem;
+
+    }
+
+    .botao {
+        font-size: 0.9375rem;
+
+    }
+
+    .botao6 {
+
+        font-size: 0.9375rem;
+
+    }
+
+    .logo {
+        height: 0;
+        width: 0;
+    }
+
+    .contatos {
+        gap: 1.875rem;
+
+
+    }
+
+    .link2 {
+        font-size: 0.9375rem;
+
+    }
+
+    .link3 {
+margin: 1rem;
+        font-size: 0.9375rem;
+
+    }
+
+    .conteudo {
+        padding: auto;
+        align-items: center;
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+
+
+
+    }
+
+    .bot {
+        justify-content: left;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 3.875rem;
+
+
+    }
+
+    .texto1 {
+        font-size: 1,25rem;
+        padding-left: 0;
+        width: auto;
+        
+    }
+
+
+    .texto2 {
+        font-size: 1.125rem;
+        padding-left: 0;
+        width: auto;
+
+
+    }
+
+    .texto3 {
+        font-size: 1.125rem;
+        padding-left: 0;
+        width: auto;
+
+
+    }
+
+    .texto5 {
+        padding-bottom: 1rem;
+    }
+
+    .nome {
+        font-size: 1, 25rem;
+    }
+
+
+
+    .main2 {
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-bottom: 5rem ;
+        margin-top: 5rem;
+        justify-content: center;
+
+    }
+
+    .sobre {
+        font-size: 1,069rem;
+    }
+
+    .main3 {
+        margin: 1rem;
+        justify-content: center;
+
+
+    }
+    
+
+    .conteudo3 {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .tex {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .conteudo4 {
+        padding: 0;
+       
+    }
+
+    .avatar{
+        margin: 1rem;
+        height: 15.625rem;
+        width: 15.625rem;
+        border-radius: 125rem;
+    
+    }
+    .main4{
+       
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .img10{
+        height: 13rem;
+        width: 23rem;
+    }
+
+    .main4{
+        margin: 1rem;
+    }
+
+    .cima{
+       margin: 0;
+        width: 2rem;
+        height: 1.5rem;
+    }
+    .rodape{
+        display: flex;
+        align-items: center;
+       
+    }
